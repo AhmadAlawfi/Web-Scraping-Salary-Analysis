@@ -1,1 +1,1 @@
-# Web-Scraping-Salary-Analysis
+# Web Scraping Salary Analysis
